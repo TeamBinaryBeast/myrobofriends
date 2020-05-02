@@ -57,6 +57,6 @@ export const robots = [
     id: 10,
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    email: 'Rey.Padberg@karina.bi'
   }
 ];
