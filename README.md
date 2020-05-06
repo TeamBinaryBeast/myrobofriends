@@ -7,6 +7,6 @@ Raihan Chowdhury & Sadman Sakib Jisan
 
 =>*Responsive Design 
 
-  *Created with React
+=>*Created with React
   
-  *No relode search(realtime result)
+=>*(realtime result)
